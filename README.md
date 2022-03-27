@@ -1,2 +1,2 @@
 # DevOps
-# One ommit
+# One Commit
